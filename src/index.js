@@ -48,7 +48,6 @@ function renderBar(dogObj){
         deleteDivs();
         renderSummary(dogObj);
     })
-    //append the dogs img/etc. to the infoDiv
 }
 
 function renderSummary(dogObj){
